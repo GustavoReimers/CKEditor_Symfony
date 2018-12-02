@@ -1,21 +1,17 @@
 # README
 
-The bundle provides a [CKEditor](http://ckeditor.com/) integration for your Symfony Project. It automatically registers
+The bundle provides a CKEditor integration for your Symfony Project. It automatically registers
 the new `ckeditor` form type which can be easily as well as highly configured.
-
-## Documentation
-
-Please, read the [official documentation](http://symfony.com/doc/master/bundles/IvoryCKEditorBundle/index.html).
 
 ## Testing
 
-The bundle is fully unit tested by [PHPUnit](http://www.phpunit.de/) with a code coverage close to **100%**. To
-execute the test suite, check the travis [configuration](/.travis.yml).
+The bundle is fully unit tested by PHPUnit with a code coverage close to **100%**. To
+execute the test suite, check the travis configuration.
 
 ## Contribute
 
 We love contributors! Ivory is an open source project. If you'd like to contribute, feel free to propose a PR! You
-can follow the [CONTRIBUTING](/CONTRIBUTING.md) file which will explain you how to set up the project.
+can follow the CONTRIBUTING file which will explain you how to set up the project.
 
 ## License
 
