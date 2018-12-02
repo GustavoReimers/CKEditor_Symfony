@@ -1,16 +1,5 @@
 # README
 
-[![Travis Build Status](https://travis-ci.org/egeloen/IvoryCKEditorBundle.svg?branch=master)](http://travis-ci.org/egeloen/IvoryCKEditorBundle)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/9h6tmsypukxhufml/branch/master?svg=true)](https://ci.appveyor.com/project/egeloen/ivoryckeditorbundle/branch/master)
-[![Code Coverage](https://scrutinizer-ci.com/g/egeloen/IvoryCKEditorBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/egeloen/IvoryCKEditorBundle/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/egeloen/IvoryCKEditorBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/egeloen/IvoryCKEditorBundle/?branch=master)
-[![Dependency Status](http://www.versioneye.com/php/egeloen:ckeditor-bundle/badge.svg)](http://www.versioneye.com/php/egeloen:ckeditor-bundle)
-
-[![Latest Stable Version](https://poser.pugx.org/egeloen/ckeditor-bundle/v/stable.svg)](https://packagist.org/packages/egeloen/ckeditor-bundle)
-[![Latest Unstable Version](https://poser.pugx.org/egeloen/ckeditor-bundle/v/unstable.svg)](https://packagist.org/packages/egeloen/ckeditor-bundle)
-[![Total Downloads](https://poser.pugx.org/egeloen/ckeditor-bundle/downloads.svg)](https://packagist.org/packages/egeloen/ckeditor-bundle)
-[![License](https://poser.pugx.org/egeloen/ckeditor-bundle/license.svg)](https://packagist.org/packages/egeloen/ckeditor-bundle)
-
 The bundle provides a [CKEditor](http://ckeditor.com/) integration for your Symfony Project. It automatically registers
 the new `ckeditor` form type which can be easily as well as highly configured.
 
